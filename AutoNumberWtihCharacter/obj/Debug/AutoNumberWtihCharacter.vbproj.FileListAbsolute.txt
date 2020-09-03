@@ -1,0 +1,11 @@
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\bin\Debug\AutoNumberWtihCharacter.exe
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\bin\Debug\AutoNumberWtihCharacter.pdb
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\bin\Debug\AutoNumberWtihCharacter.xml
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.vbprojAssemblyReference.cache
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.Form1.resources
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.Resources.resources
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.vbproj.GenerateResource.cache
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.vbproj.CoreCompileInputs.cache
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.exe
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.xml
+C:\Users\Keooudone\source\repos\AutoNumberWtihCharacter\AutoNumberWtihCharacter\obj\Debug\AutoNumberWtihCharacter.pdb
